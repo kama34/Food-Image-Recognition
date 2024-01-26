@@ -20,9 +20,6 @@ Detection of inconsistencies in food descriptions in online food ordering and de
 ### Introduction
 The project "Food image recognition" aims to enhance the quality of services in the online food ordering and delivery platform. One crucial element for success in this domain is ensuring the correspondence between the displayed image of a dish, its description, and category. This project employs deep neural networks for automatic detection of inconsistencies.
 
-### Overview
-
-
 ### Goals and Objectives
   * Development of a Deep Learning Model: The project proposes creating a Convolutional Neural Network (CNN) model trained on the "Food101" dataset for food image classification.
 
